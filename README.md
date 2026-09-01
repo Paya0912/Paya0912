@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Le Tien Dat</h1>
+<h1 align="center">Hi 👋, I'm Tien Dat Le</h1>
 
 <p align="center">
   <b>Computer Engineering Student @ Can Tho University</b><br>
