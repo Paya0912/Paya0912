@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/paya0912"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:datle.09122005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Paya0912"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Papaya0912"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Major:** Computer Engineering at Can Tho University (Aug 2023 – Present).
-- 🔬 **Focus Areas:** Digital IC Design, RTL Design & Verification, FPGA Prototyping, Embedded Firmware & RTOS.
+- 🔬 **Focus Areas:** Digital IC Design, RTL Design & Verification, FPGA Prototyping, Embedded Systems & Wireless Protocols.
 - 🛠️ **Current Focus:** Seeking an internship in RTL Design, Design Verification, and Embedded Systems.
 
 ---
@@ -28,14 +28,20 @@
 - **RTL & Verification:** Verilog, SystemVerilog, Testbench Development, Functional Verification
 - **FPGA & SoC:** Intel Quartus, Nios II, Platform Designer (Qsys), HW/SW Co-design
 
-**Embedded Systems & IoT**
-- **Hardware Platforms:** STM32 (ARM Cortex-M), ESP32, Raspberry Pi
+**Embedded Systems & Wireless IoT**
+- **Platforms:** STM32 (ARM Cortex-M), Raspberry Pi 3, ESP32
 - **Firmware & RTOS:** Embedded C/C++, RT-Thread, Multi-threading, Interrupt-driven architectures
-- **Peripherals & Protocols:** I2C, SPI, UART, ADC, GPIO, EXTI, LoRa, GPS
-- **IoT & Full-stack:** Firebase, React Native
+- **Protocols & RF:** LoRa (SX1278, 433 MHz), GPS (NMEA), SPI, I2C, UART, ADC, EXTI, Antenna Tuning
+- **Cloud & IoT:** Firebase, React Native
 
 **Signal Processing & Languages**
 - **Languages:** C/C++, Verilog, SystemVerilog, Python, Assembly
 - **Signal / Image Processing:** OpenCV, MATLAB, Simulink
 
 ---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Papaya0912&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
