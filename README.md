@@ -38,7 +38,3 @@ LoRa · GPS · I2C · UART · ADC · GPIO
 Python · MATLAB · OpenCV · YOLO
 
 ---
-
-<p align="center">
-  <i>Hardware meets software.</i>
-</p>
