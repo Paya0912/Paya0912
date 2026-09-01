@@ -15,8 +15,6 @@
 Computer Engineering student interested in computer hardware,
 digital systems, and embedded software.
 
-Currently exploring RT-Thread on STM32 and POSIX Threads on Raspberry Pi.
-
 ## Skills
 
 **IC Design & VLSI**  
