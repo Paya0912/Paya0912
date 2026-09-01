@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/Paya.0912"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="mailto:datle.09122005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Papaya0912"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
@@ -39,9 +39,3 @@
 - **Signal / Image Processing:** OpenCV, MATLAB, Simulink
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Papaya0912&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
