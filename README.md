@@ -1,155 +1,122 @@
-<h1 align="center">Hi 👋, I'm Đạt</h1>
+<h1 align="center">Hi 👋, I'm Le Tien Dat</h1>
 
 <p align="center">
-  <b>Electronic & Telecommunication Engineering Student</b>
+  <b>Computer Engineering Student at Can Tho University</b>
 </p>
 
 <p align="center">
-  Can Tho University · Vietnam
+  IC Design • RTL & Verification • FPGA/SoC • Embedded Systems • IoT
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm an Electronic and Telecommunication Engineering student at
-Can Tho University with a strong interest in:
+I'm a Computer Engineering student at Can Tho University interested in
+computer hardware, digital systems, and embedded software.
 
-- Embedded Systems
+My interests span across the hardware/software stack, including:
+
+- IC Design & VLSI
+- RTL Design & Verification
+- FPGA / SoC
+- Embedded & Real-Time Systems
 - IoT & Wireless Communication
-- PCB Design
-- Computer Vision & AI
-- Linux & Raspberry Pi
-- Software Development
+- Signal & Image Processing
 
-I enjoy building practical systems by combining
-hardware, embedded software, communication technologies,
-and computer vision.
+Currently exploring **RT-Thread on STM32** and **POSIX Threads on Raspberry Pi**.
 
 ---
 
-## 🛠️ Skills
+## Tech Stack
 
-### 💻 Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
-</p>
-
-### 🔧 Embedded & Hardware
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
-**Microcontrollers & Hardware**
+**Verilog · SystemVerilog · Assembly**
 
-- STM32
-- ESP32
-- MSP430
-- Raspberry Pi
-- FPGA
-- LoRa
-- GPS
+### IC Design & Verification
 
-### 🌐 Web & Application
+**Cadence Virtuoso · Synopsys VCS · Verdi · LTSpice**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,html,css,firebase" />
-</p>
+- CMOS Circuit Design
+- Schematic & Layout
+- DRC / LVS
+- RTL Design
+- Testbench Development
+- Functional Verification
 
-### 🤖 AI & Computer Vision
+### FPGA / SoC
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
+**Intel Quartus · Nios II · Platform Designer**
 
-- Computer Vision
-- Machine Learning
-- YOLO
-- Image Processing
-- Signal Processing
+### Embedded & Real-Time
 
-### 🔌 PCB & Electronics
+**STM32 · ESP32 · Raspberry Pi · RT-Thread · POSIX Threads**
 
-- Altium Designer
-- Proteus
-- STM32CubeIDE
-- RT-Thread
-- MATLAB
+**Embedded C · UART · I2C · GPIO · ADC · Interrupts · DMA**
 
-### 🗄️ Database & Tools
+### IoT & Communication
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,git,github,vscode" />
-</p>
+**LoRa · GPS · Firebase · Wireless Communication**
+
+### AI / Signal & Image Processing
+
+**Python · MATLAB · Simulink · OpenCV · YOLO**
+
+### Design & Development Tools
+
+**Altium Designer · Proteus · STM32CubeIDE · Git · Linux**
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
+
+### 🔬 2-bit Full Adder IC Design
+**CMOS 45nm · Cadence Virtuoso · LTSpice**
+
+Designed a hierarchical 2-bit full adder with schematic,
+layout, DRC/LVS verification, and timing analysis.
+
+### ⚙️ FPGA SoC — Nios II BCD Decoder
+**Verilog · Nios II · Intel Quartus**
+
+Designed a Nios II-based SoC with memory-mapped peripherals
+and FPGA I/O interfaces.
+
+### 🧵 STM32 RT-Thread Data Acquisition
+**STM32 · RT-Thread · ADS1115 · I2C**
+
+Real-time data acquisition system using RT-Thread with
+concurrent ADC sampling and interrupt-driven processing.
+
+### 🖥️ Raspberry Pi POSIX Threads
+**Raspberry Pi 3 · Linux · C · POSIX Threads**
+
+Exploring multithreaded programming, task synchronization,
+and concurrent processing on Linux.
 
 ### 🏠 IoT Smart Home
-**ESP32 · React Native · Firebase**
+**ESP32 · Firebase · React Native**
 
-An IoT smart home system using ESP32 with a
-mobile application for monitoring and controlling devices.
-
-### 📡 LoRa Communication System
-**STM32 · SX1278 · GPS · LoRa**
-
-Long-range wireless communication system combining
-STM32, LoRa and GPS for location tracking and data transmission.
-
-### 🧭 GPS Tracking System
-**STM32 · NEO-M8N · UART · GPS**
-
-GPS data acquisition and processing system for
-latitude, longitude, speed and timestamp tracking.
-
-### 🚤 Waterway Safety Monitoring
-**MATLAB · YOLOv4 · Computer Vision**
-
-Computer vision system for monitoring waterway safety
-and detecting boats in the floating market environment.
-
-### 🎧 Audio Band-Pass Filter
-**Python · DSP · FIR · IIR**
-
-Digital signal processing project for human voice
-enhancement using band-pass filtering.
+IoT system for real-time monitoring and remote device control.
 
 ---
 
-## 📊 GitHub Stats
+## Interests
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paya0912&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paya0912&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
+**IC Design · VLSI · RTL · Verification · FPGA · SoC ·
+Embedded Systems · RTOS · Computer Architecture · IoT**
 
 ---
 
-## 🔥 GitHub Streak
+## Connect
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Paya0912&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
+<p>
   <a href="https://github.com/Paya0912">
     <img src="https://img.shields.io/badge/GitHub-Paya0912-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://facebook.com/paya.0912">
-    <img src="https://img.shields.io/badge/Facebook-paya.0912-blue?style=for-the-badge&logo=facebook" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building things with hardware, software and AI.</i>
 </p>
